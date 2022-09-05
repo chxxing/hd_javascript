@@ -90,7 +90,6 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 
 
-
     document.querySelector('.Portfolio .slide_handler .next').addEventListener('click', () => {
         PLS.slideNext();
         PRS.slideNext();
