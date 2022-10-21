@@ -541,7 +541,6 @@ body {
 
 .Portfolio .wrap_port {
     display: flex;
-
     width: calc((100% - 1200px) / 2 + 1200px);
     margin: 0 0 0 auto;
     overflow: hidden;
@@ -589,9 +588,10 @@ body {
     line-height: 50px;
 }
 
+/* 
 .Portfolio .portfolio_left_slide {
-    /* overflow: visible; */
-}
+    overflow: visible;
+} */
 
 .Portfolio .portfolio_left_slide img {
     box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
